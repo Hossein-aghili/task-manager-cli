@@ -48,7 +48,7 @@ class TaskManager {
     }
 }
 
-const  manager = new TaskManager();
+const manager = new TaskManager();
 manager.addTask('Buy groceries');
 manager.addTask('Finish homework');
 manager.listTasks();
